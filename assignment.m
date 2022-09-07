@@ -1,9 +1,3 @@
-clear all
-close all
-clc
-format short eng
+disp("My name is Ray Troche")
 
-disp("")
-
-a = 100
-
+a = "09/06/2022"
